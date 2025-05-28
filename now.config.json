@@ -1,0 +1,6 @@
+{
+    "scope": "x_snc_ghubtokenapp",
+    "scopeId": "cea91165ff7daa1007e5fa4f7c4fd9d4",
+    "name": "GitHubTokenApp",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
